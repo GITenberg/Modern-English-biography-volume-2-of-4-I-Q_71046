@@ -1,0 +1,31 @@
+_repo: Modern-English-biography-volume-2-of-4-I-Q_71046
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Boase, Frederic
+    birthdate: 1843
+    deathdate: 1916
+    gutenberg_agent_id: '48174'
+    url: http://www.gutenberg.org/2009/agents/48174
+    wikipedia: https://en.wikipedia.org/wiki/Frederic_Boase
+description: ''
+gutenberg_issued: '2023-06-26'
+identifiers:
+  gutenberg: '71046'
+language: en
+pgterms:marc905: 20141223084334boase
+pgterms:marc906: '1892'
+pgterms:marc907: GB
+production_note: Eric Hutton, Karin Spence and the Online Distributed Proofreading
+  Team at https://www.pgdp.net
+publication_note: '  $aUnited Kingdom :$bNetherton and Worth, $c1892, copyright 1897,
+  copyright 1901, copyright 1908.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- Biography -- Dictionaries'
+- !lcc 'CT'
+- GITenberg
+title: Modern English biography, volume 2 (of 4), I-Q
+url: http://www.gutenberg.org/ebooks/71046
